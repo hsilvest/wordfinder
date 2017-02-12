@@ -1,0 +1,6 @@
+C:\Users\Henrique\Desktop\fortgroup\WordFinder\WordFinder\bin\Debug\WordFinder.exe.config
+C:\Users\Henrique\Desktop\fortgroup\WordFinder\WordFinder\bin\Debug\WordFinder.exe
+C:\Users\Henrique\Desktop\fortgroup\WordFinder\WordFinder\bin\Debug\WordFinder.pdb
+C:\Users\Henrique\Desktop\fortgroup\WordFinder\WordFinder\obj\Debug\WordFinder.exe
+C:\Users\Henrique\Desktop\fortgroup\WordFinder\WordFinder\obj\Debug\WordFinder.pdb
+C:\Users\Henrique\Desktop\fortgroup\WordFinder\WordFinder\obj\Debug\WordFinder.csprojResolveAssemblyReference.cache
